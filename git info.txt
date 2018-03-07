@@ -1,0 +1,2 @@
+git remote add origin https://github.com/fernandoloway/ujian_front_end_soal1_fernando.git
+git push -u origin master
