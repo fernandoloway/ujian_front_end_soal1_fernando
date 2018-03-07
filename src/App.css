@@ -1,0 +1,17 @@
+
+.container-fluid {
+  max-width: 50rem;
+}
+
+
+[class*="col-"]{
+  /* float: left; */
+  padding-top: 1rem;
+  text-align: left !important;
+}
+
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 1rem;
+}
